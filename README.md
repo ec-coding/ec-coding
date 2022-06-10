@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Zolere
+- 👋 Hi, I’m @Edwin
 - 👀 I’m interested in becoming a professional web developer.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Full-Stack web development.
 - 💞️ I’m looking to collaborate on front-end web projects.
 - 📫 How to reach me: Urzaleus#1103 on Discord
 

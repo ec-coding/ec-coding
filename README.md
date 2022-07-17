@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Edwin
-- 👀 I’m interested in becoming a professional web developer.
+- 👋 
+- 👀 I’m interested 
 - 🌱 I’m currently learning Full-Stack web development.
-- 💞️ I’m looking to collaborate on front-end web projects.
+- 💞️ 
 - 📫 How to reach me: Urzaleus#1103 on Discord
 
 <img src="https://github.com/ec-coding/ec-coding/blob/main/Profile%20Banner.png" width="100%">
@@ -18,6 +18,9 @@
   </a>
 </p>
 
+I am a software developer with extensive focus in HTML, CSS, JavaScript, React, and Node.js. With my background as a former teacher, I am able to analyze and deconstruct problems by seeing them all as learning opportunities to grow from. My interest in web development aligns closely with my former profession because I find great artistry in finding new ways to help educate both myself and my peers on complex subjects.
+
+Outside of my profession, you can usually catch me reading, watching films, or just enjoying the company of close friends. Feel free to reach out with any questions!
 
 <!---
 Zolere/Zolere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

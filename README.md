@@ -12,7 +12,7 @@
   </a>
 </p>
 
-Hi, I'm @Edwin! I am currently studying Full-Stack web development in the hopes of becoming a professional software engineer. 
+Hi, I'm Edwin! I am a former teacher who is currently studying Full-Stack web development in the hopes of making a career transition into professional software engineering. Please visit [my personal website](https://edwinchoi.netlify.app/) for more information on the projects I've completed!
 
 <!---
 Zolere/Zolere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

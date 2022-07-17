@@ -17,7 +17,7 @@ Hi, I'm Edwin! I am a former teacher who is currently studying Full-Stack web de
 <h2 align="center">My Projects</h2>
 <table bordercolor="#66b2b2">
   
-  <tr>
+<tr>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio Website</h3>
       <br />
@@ -53,6 +53,8 @@ Hi, I'm Edwin! I am a former teacher who is currently studying Full-Stack web de
         <p>A 100Devs project which is meant to showcase the use of object-oriented programming (OOP) to create a fully interactive game module, complete with victory, loss, and tie conditions.</p>
     </td>
 </tr>
+</table>
+
 
 <h2 align="center">Languages</h2>
 <p align="center">
@@ -61,7 +63,7 @@ Hi, I'm Edwin! I am a former teacher who is currently studying Full-Stack web de
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
 </p>
 
-<h1 align="center">Social Media</h1>
+<h2 align="center">Social Media</h2>
 
 
 

@@ -50,7 +50,7 @@ Hi, I'm Edwin! I am a former teacher who is currently studying Full-Stack web de
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>A 100Devs project which is meant to showcase the use of Object Oriented Programming to create a fully interactive game module, complete with victory, loss, and tie conditions.</p>
+        <p>A 100Devs project which is meant to showcase the use of object-oriented programming (OOP) to create a fully interactive game module, complete with victory, loss, and tie conditions.</p>
     </td>
 </tr>
 

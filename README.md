@@ -14,6 +14,9 @@
 
 Hi, I'm Edwin! I am a former teacher who is currently studying Full-Stack web development in the hopes of making a career transition into professional software engineering. Please visit [my personal website](https://edwinchoi.netlify.app/) for more information!
 
+<h2 align="center">My Projects</h2>
+<table bordercolor="#66b2b2">
+
 <!---
 Zolere/Zolere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

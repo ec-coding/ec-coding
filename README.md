@@ -15,6 +15,7 @@
 Hi, I'm Edwin! I am a former teacher who is currently studying Full-Stack web development in the hopes of making a career transition into professional software engineering.
 
 <h2 align="center">My Projects</h2>
+<table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">

@@ -35,6 +35,7 @@ Hi, I'm Edwin! I am a former teacher who is currently studying Full-Stack web de
       </p>
         <p>My portfolio site, which displays my latest projects and information on my freelancing services.</p>
     </td>
+</tr>
 
 <!---
 Zolere/Zolere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

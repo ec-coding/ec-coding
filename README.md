@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on front-end web projects.
 - 📫 How to reach me: Urzaleus#1103 on Discord
 
+<img src="https://github.com/ec-coding/ec-coding/blob/main/Profile%20Banner.png" width="100%">
+
 <p align="center">
   <a href="https://edwinchoi.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>

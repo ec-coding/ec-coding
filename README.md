@@ -36,21 +36,21 @@ Hi, I'm Edwin! I am a former teacher who is currently studying Full-Stack web de
         <p>My portfolio site, which displays my latest projects and information on my freelancing services.</p>
     </td>
         <td width="50%" valign="top">
-      <h3 align="center">Portfolio Website</h3>
+      <h3 align="center">Tic Tac Toe</h3>
       <br />
         <a target="_blank" href="https://edwinchoi.netlify.app/">
-          <img src="https://github.com/ec-coding/ec-coding/blob/main/Website%20Demo.png" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/ec-coding/Tic-Tac-Toe/blob/main/tic-tac-toe.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/ec-coding/Personal-Website" target="_blank">
+  <a href="https://github.com/ec-coding/Tic-Tac-Toe" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://edwinchoi.netlify.app/" target="_blank">
+  <a href="https://ec-tictactoe.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>My portfolio site, which displays my latest projects and information on my freelancing services.</p>
+        <p>A 100Devs project which is meant to showcase the use of Object Oriented Programming to create a fully interactive game module, complete with victory, loss, and tie conditions.</p>
     </td>
 </tr>
 

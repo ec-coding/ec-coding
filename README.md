@@ -1,9 +1,3 @@
-- 👋 
-- 👀 I’m interested 
-- 🌱 I’m currently learning Full-Stack web development.
-- 💞️ 
-- 📫 How to reach me: Urzaleus#1103 on Discord
-
 <img src="https://github.com/ec-coding/ec-coding/blob/main/Profile%20Banner.png" width="100%">
 
 <p align="center">

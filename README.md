@@ -39,7 +39,7 @@ Hi, I'm Edwin! I am a former teacher who is currently studying Full-Stack web de
       <h3 align="center">Tic Tac Toe</h3>
       <br />
         <a target="_blank" href="https://edwinchoi.netlify.app/">
-          <img src="https://github.com/ec-coding/Tic-Tac-Toe/blob/main/tic-tac-toe.png" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/ec-coding/Tic-Tac-Toe/blob/main/tic-tac-toe%20grid.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">

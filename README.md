@@ -12,9 +12,7 @@
   </a>
 </p>
 
-I am a software developer with extensive focus in HTML, CSS, JavaScript, React, and Node.js. With my background as a former teacher, I am able to analyze and deconstruct problems by seeing them all as learning opportunities to grow from. My interest in web development aligns closely with my former profession because I find great artistry in finding new ways to help educate both myself and my peers on complex subjects.
-
-Outside of my profession, you can usually catch me reading, watching films, or just enjoying the company of close friends. Feel free to reach out with any questions!
+Hi, I'm @Edwin! I am currently studying Full-Stack web development in the hopes of becoming a professional software engineer. 
 
 <!---
 Zolere/Zolere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

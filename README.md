@@ -12,7 +12,7 @@
   </a>
 </p>
 
-Hi, I'm Edwin! I am a former teacher who is currently studying Full-Stack web development with the aim of transitioning my career into professional software engineering. Please feel free to reach out if you have any questions!
+Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and logistics. I synergize my professional skillsets to build amazing applications that not only challenge me as an engineer, but also offer great utility for its users. Please feel free to reach out if you have any questions!
 
 <h2 align="center">My Projects</h2>
 <table bordercolor="#66b2b2">

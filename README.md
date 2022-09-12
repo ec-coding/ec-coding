@@ -35,11 +35,11 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
       </p>
         <p>My portfolio site, which displays my latest projects and information on my freelancing services.</p>
     </td>
-        <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Tic Tac Toe Module</h3>
       <br />
         <a target="_blank" href="https://ec-tictactoe.netlify.app/">
-          <img src="https://github.com/ec-coding/Tic-Tac-Toe/blob/main/tic-tac-toe%20profile.png" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/ec-coding/Tic-Tac-Toe/blob/main/tic-tac-toe%20profile.png" width="100%" alt="Tic-Tac-Toe"/>
         </a>
       <br />
         <p align="center">
@@ -51,6 +51,24 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
   </a>
       </p>
         <p>A 100Devs project which is meant to showcase the use of object-oriented programming (OOP) to create a fully interactive game module, complete with victory, loss, and tie conditions.</p>
+          
+    <td width="50%" valign="top">
+      <h3 align="center">PokéDrafts [WIP]</h3>
+      <br />
+        <a target="_blank" href="http://pokedrafts.herokuapp.com/">
+          <img src="https://github.com/ec-coding/PokeDrafts/blob/main/PokeDrafts%20Demo.png" width="100%" alt="PokéDrafts"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/ec-coding/PokeDrafts" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://pokedrafts.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <pA full-stack web app that allows you to build your very own deck from the first 3 sets of the Pokémon Trading Card Game.</p>
+          
     </td>
 </tr>
 </table>

@@ -35,7 +35,6 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
       </p>
         <p>My portfolio site, which displays my latest projects and information on my freelancing services.</p>
     </td>
-    
     <td width="50%" valign="top">
       <h3 align="center">Tic Tac Toe Module</h3>
       <br />
@@ -52,8 +51,7 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
   </a>
       </p>
         <p>A 100Devs project which is meant to showcase the use of object-oriented programming (OOP) to create a fully interactive game module, complete with victory, loss, and tie conditions.</p>
-        </td>
-
+   </td>
 </tr>
 </table>
 

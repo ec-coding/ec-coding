@@ -55,7 +55,7 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
         <p>A 100Devs project which is meant to showcase the use of object-oriented programming (OOP) to create a fully interactive game module, complete with victory, loss, and tie conditions.</p>
         </td>
           
-    <td width="50%" valign="top">
+    <td width="50%" valign="bottom">
       <h3 align="center">PokéDrafts [WIP]</h3>
       <br />
         <a target="_blank" href="http://pokedrafts.herokuapp.com/">

@@ -18,7 +18,6 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 <table bordercolor="#66b2b2">
   
 <tr>
-
     <td width="50%" valign="top">
       <h3 align="center">Portfolio Website</h3>
       <br />
@@ -41,7 +40,7 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
       <h3 align="center">Tic Tac Toe Module</h3>
       <br />
         <a target="_blank" href="https://ec-tictactoe.netlify.app/">
-          <img src="https://github.com/ec-coding/Tic-Tac-Toe/blob/main/tic-tac-toe%20profile.png" width="100%" alt="Tic-Tac-Toe"/>
+          <img src="https://github.com/ec-coding/Tic-Tac-Toe/blob/main/tic-tac-toe%20profile.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">

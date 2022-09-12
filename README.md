@@ -52,6 +52,8 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
       </p>
         <p>A 100Devs project which is meant to showcase the use of object-oriented programming (OOP) to create a fully interactive game module, complete with victory, loss, and tie conditions.</p>
    </td>
+</tr>
+<tr>	
 <td width="50%" valign="bottom">
 	<h3 align="center">PokéDrafts [WIP]</h3>
 	<br />
@@ -86,8 +88,8 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 </a>
 	</p>
     <p>A full-stack web app that allows you to build your very own deck from the first 3 sets of the Pokémon Trading Card Game.</p>
-  </td>  
-</tr>
+  </td>  	
+	</tr>	
 </table>
 
 

@@ -38,7 +38,7 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 	<h3 align="center">MVC Presentation</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/MVC-Lecture/blob/main/MVC%20Lecture.pdf">
-		<img src="https://github.com/ec-coding/MVC-Lecture/blob/main/MVC%20Profile.png" width="100%" alt="MVC Lecture"/>
+		<img src="https://github.com/ec-coding/MVC-Lecture/blob/main/MVC%20Banner.png" width="100%" alt="MVC Lecture"/>
 	  </a>
 	<br />
 	  <p align="center">

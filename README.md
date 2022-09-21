@@ -80,7 +80,7 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
       <h3 align="center">Tic Tac Toe Module</h3>
       <br />
         <a target="_blank" href="https://ec-tictactoe.netlify.app/">
-          <img src="https://github.com/ec-coding/Tic-Tac-Toe/blob/main/tic-tac-toe%20profile.png" width="100%" alt="Tic-Tac-Toe"/>
+          <img src="https://github.com/ec-coding/Tic-Tac-Toe/blob/main/Tic-Tac-Toe%20Banner.png" width="100%" alt="Tic-Tac-Toe"/>
         </a>
       <br />
         <p align="center">

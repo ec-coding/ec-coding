@@ -63,7 +63,7 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
       <h3 align="center">Portfolio Website</h3>
       <br />
         <a target="_blank" href="https://edwinchoi.netlify.app/">
-          <img src="https://github.com/ec-coding/ec-coding/blob/main/Website%20Demo.png" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/ec-coding/Personal-Site/blob/main/images/Portfolio%20Banner.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">

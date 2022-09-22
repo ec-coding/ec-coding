@@ -75,29 +75,7 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
   </a>
       </p>
         <p>My portfolio site, which displays my latest projects and information on my freelancing services.</p>
-    </td>
-  <td width="50%" valign="top">
-	<h3 align="center">Climate Change - Live Coverage</h3>
-	<br />
-	  <a target="_blank" href="https://rapidapi.com/edwinchoiwdev/api/climate-change-live-coverage">
-		<img src="https://github.com/ec-coding/climate-change-api/blob/main/climate-change-app-logo.jpg" width="100%" alt="MVC Lecture"/>
-	  </a>
-	<br />
-	  <p align="center">
-<a href="https://github.com/ec-coding/climate-change-api" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-</a>
-<a href="https://rapidapi.com/edwinchoiwdev/api/climate-change-live-coverage" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-</a>
-	</p>
-    <p>An API built for scrubbing global news sites for articles on climate change.</p>
-  </td> 
-	
-	
-
-</tr>
-<tr>
+    </td> 
   <td width="50%" valign="top">
 	<h3 align="center">MVC Presentation</h3>
 	<br />
@@ -115,6 +93,25 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 	</p>
     <p>A detailed description of MVC architecture and its benefits to modern web app development.</p>
   </td> 
+</tr>
+<tr>
+  <td width="50%" valign="top">
+	<h3 align="center">Climate Change - Live Coverage</h3>
+	<br />
+	  <a target="_blank" href="https://rapidapi.com/edwinchoiwdev/api/climate-change-live-coverage">
+		<img src="https://github.com/ec-coding/climate-change-api/blob/main/climate-change-app-logo.jpg" width="100%" alt="MVC Lecture"/>
+	  </a>
+	<br />
+	  <p align="center">
+<a href="https://github.com/ec-coding/climate-change-api" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+</a>
+<a href="https://rapidapi.com/edwinchoiwdev/api/climate-change-live-coverage" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+</a>
+	</p>
+    <p>An API built for scrubbing global news sites for articles on climate change.</p>
+  </td>
 </tr>	
 </table>
 

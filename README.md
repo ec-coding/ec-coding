@@ -99,7 +99,7 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 	<h3 align="center">Climate Change - Live Coverage</h3>
 	<br />
 	  <a target="_blank" href="https://rapidapi.com/edwinchoiwdev/api/climate-change-live-coverage">
-		<img src="https://github.com/ec-coding/climate-change-api/blob/main/climate-change-app-logo.jpg" width="100%" alt="MVC Lecture"/>
+		<img src="https://github.com/ec-coding/Personal-Site/blob/main/images/climate-change-app%20banner.jpg" width="100%" alt="MVC Lecture"/>
 	  </a>
 	<br />
 	  <p align="center">

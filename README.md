@@ -59,6 +59,23 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
    </td>
 </tr>  
 <tr>
+  <td width="50%" valign="top">
+	<h3 align="center">StoryBooks</h3>
+	<br />
+	  <a target="_blank" href="http://ec-storybooks-app.herokuapp.com/">
+		<img src="https://github.com/ec-coding/Personal-Site/blob/main/images/StoryBooks%20Banner.png" width="100%" alt="MVC Lecture"/>
+	  </a>
+	<br />
+	  <p align="center">
+<a href="https://github.com/ec-coding/StoryBooks-App" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+</a>
+<a href="http://ec-storybooks-app.herokuapp.com/" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+</a>
+	</p>
+    <p>A full-stack blogging app made with Node.js, Handlebars(hbs) and CSS. Mobile-friendly.</p>
+  </td>
 <td width="50%" valign="top">
 	<h3 align="center">Climate Change - Live Coverage</h3>
 	<br />
@@ -76,23 +93,6 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 	</p>
     <p>An API built for scrubbing global news sites for articles on climate change. Hosted on RapidAPI with Basic and Pro usage plans.</p>
   </td>
-  <td width="50%" valign="top">
-	<h3 align="center">StoryBooks</h3>
-	<br />
-	  <a target="_blank" href="http://ec-storybooks-app.herokuapp.com/">
-		<img src="https://github.com/ec-coding/Personal-Site/blob/main/images/StoryBooks%20Banner.png" width="100%" alt="MVC Lecture"/>
-	  </a>
-	<br />
-	  <p align="center">
-<a href="https://github.com/ec-coding/StoryBooks-App" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-</a>
-<a href="http://ec-storybooks-app.herokuapp.com/" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-</a>
-	</p>
-    <p>A full-stack blogging app made with Node.js, Handlebars(hbs) and CSS. Mobile-friendly.</p>
-  </td> 
 </tr>
 <tr>
  <td width="50%" valign="top">

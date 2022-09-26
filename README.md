@@ -103,7 +103,7 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/ec-coding/Personal-Website" target="_blank">
+  <a href="https://github.com/ec-coding/Personal-Site" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://edwinchoi.netlify.app/" target="_blank">

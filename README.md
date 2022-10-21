@@ -1,4 +1,4 @@
-<img src="https://github.com/ec-coding/ec-coding/blob/main/Profile%20Banner.png" width="100%">
+<img src="https://github.com/ec-coding/ec-coding/blob/main/Profile%20Banner.png" width="100%"> a
 
 <p align="center">
   <a href="https://edwinchoi.netlify.app/" target="_blank">

@@ -24,8 +24,8 @@
 Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and logistics. I synergize my professional skillsets to build amazing applications that not only challenge me as an engineer, but which also offer great utility for my clients. Please feel free to reach out if you have any questions!
 
 <h2 align="center">My Projects</h2>
-<table bordercolor="#66b2b2">
-  <td width="100%" valign="top">
+
+<td width="50%" valign="top">
 	<h3 align="center">PokéDrafts [WIP]</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/PokeDrafts-2.0">
@@ -42,6 +42,8 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 	</p>
     <p>A full-stack web app that allows you to build your very own deck from various sets of the Pokémon Trading Card Game. Currently being revamped with MERN stack.</p>
   </td>  
+
+<table bordercolor="#66b2b2">  
 <tr>
 <td width="50%" valign="top">
 	<h3 align="center">Climate Change - Live Coverage</h3>

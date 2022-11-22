@@ -26,7 +26,7 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 <h2 align="center">My Projects</h2>
 <table bordercolor="#66b2b2">
 <tr>	
-  <td width="50%" valign="top">
+  <td width="100%" valign="top">
 	<h3 align="center">PokéDrafts [WIP]</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/PokeDrafts-2.0">

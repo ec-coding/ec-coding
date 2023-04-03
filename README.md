@@ -27,10 +27,10 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 <h2 align="center">My Projects</h2>
 <tr>
 <td width="100%" valign="top">
-	<h3 align="center">PokéDrafts [WIP]</h3>
+	<h3 align="center">PokéDrafts</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/PokeDrafts-2.0">
-		<img src="https://github.com/ec-coding/PokeDrafts-2.0/blob/main/images/PokeDrafts%201.gif" width="100%" alt="PokéDrafts"/>
+		<img src="[https://github.com/ec-coding/PokeDrafts-2.0/blob/main/images/PokeDrafts%201.gif](https://imgur.com/a/npD6P3o)" width="100%" alt="PokéDrafts"/>
 	  </a>
 	<br />
 	  <p align="center">
@@ -41,7 +41,7 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
 </a>
 	</p>
-    <p>PokéDrafts is a full-stack web app that allows you to build your very own deck from various sets of the Pokémon Trading Card Game. It features Google authentication, MVC framework, and data fetches from the official Pokémon card database. Currently being revamped with MERN stack.</p>
+    <p>PokéDrafts is a full-stack web app that allows you to build your very own deck from various sets of the Pokémon Trading Card Game. It features Google authentication, MVC framework, and data fetches from an external Pokémon card API. Currently being built with MERN stack.</p>
 </tr>
   </td>  
 </table>

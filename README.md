@@ -68,7 +68,7 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 	<h3 align="center">CLU-Scape</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
-		<img src="https://github.com/ec-coding/CLU-Scape/blob/main/img/clu-scape%20preview.gif" width="100%" alt="CLU-Scape"/>
+		<img src="https://github.com/ec-coding/CLU-Scape/blob/main/img/clu-scape%20preview.gif" width="60%" alt="CLU-Scape"/>
 	  </a>
 	<br />
 	  <p align="center">

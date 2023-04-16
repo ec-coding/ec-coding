@@ -32,7 +32,7 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 	<h3 align="center">PokéDrafts</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/PokeDrafts-2.0">
-		<img src="https://github.com/ec-coding/PokeDrafts-2.0/blob/main/images/pokedrafts-preview1.gif" width="90%" alt="PokéDrafts"/>
+		<img src="https://github.com/ec-coding/PokeDrafts-2.0/blob/main/images/pokedrafts-preview1.gif" width="95%" alt="PokéDrafts"/>
 	  </a>
 	<br />
 	  <p align="center">

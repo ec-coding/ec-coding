@@ -65,22 +65,22 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 </tr>
 <tr>
 <td width="50%" valign="top">
-	<h3 align="center">Climate Change - Live Coverage</h3>
-	<br />
-	  <a target="_blank" href="https://rapidapi.com/edwinchoiwdev/api/climate-change-live-coverage">
-		<img src="https://github.com/ec-coding/Personal-Site/blob/main/images/climate-change-app%20banner.jpg" width="100%" alt="MVC Lecture"/>
-	  </a>
-	<br />
-	  <p align="center">
-<a href="https://github.com/ec-coding/climate-change-api" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-</a>
-<a href="https://rapidapi.com/edwinchoiwdev/api/climate-change-live-coverage" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-</a>
-	</p>
-    <p>An API built for scrubbing global news sites for articles on climate change. Hosted on RapidAPI with Basic and Pro usage plans.</p>
-  </td>
+      <h3 align="center">Portfolio Website</h3>
+      <br />
+        <a target="_blank" href="https://edwinchoi.netlify.app/">
+          <img src="https://github.com/ec-coding/Personal-Site/blob/main/images/Portfolio%20Preview.png" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/ec-coding/Personal-Site" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://edwinchoi.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>My portfolio site, which displays my latest projects and information on my freelancing services.</p>
+    </td> 
 	<td width="50%" valign="top">
       <h3 align="center">Tic Tac Toe Module</h3>
       <br />
@@ -100,23 +100,6 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
    </td> 
 </tr>
 <tr>
- <td width="50%" valign="top">
-      <h3 align="center">Portfolio Website</h3>
-      <br />
-        <a target="_blank" href="https://edwinchoi.netlify.app/">
-          <img src="https://github.com/ec-coding/Personal-Site/blob/main/images/Portfolio%20Preview.png" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/ec-coding/Personal-Site" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://edwinchoi.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p>My portfolio site, which displays my latest projects and information on my freelancing services.</p>
-    </td> 
 <td width="50%" valign="top">
 	<h3 align="center">StoryBooks</h3>
 	<br />

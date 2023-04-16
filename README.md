@@ -25,8 +25,10 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 
 <table bordercolor="#66b2b2"> 
 <h2 align="center">My Projects</h2>
+</table>
+<table bordercolor="#66b2b2">
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 	<h3 align="center">PokéDrafts</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/PokeDrafts-2.0">
@@ -44,8 +46,6 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
     <p>PokéDrafts is a full-stack web app that allows you to build your very own deck from various sets of the Pokémon Trading Card Game. It features Google authentication, MVC framework, and data fetches from an external Pokémon card API. Currently being built with MERN stack.</p>
   </td> 
 </tr>
-</table>
-<table bordercolor="#66b2b2">  
 <tr>
 <td width="50%" valign="top">
 	<h3 align="center">Climate Change - Live Coverage</h3>

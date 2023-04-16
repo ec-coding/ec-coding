@@ -65,20 +65,6 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 </tr>
 <tr>
 <td width="50%" valign="top">
-	<h3 align="center">View Transitions Lecture</h3>
-	<br />
-	  <a target="_blank" href="https://github.com/ec-coding/VT-Lecture">
-		<img src="https://github.com/ec-coding/VT-Lecture/blob/main/img/pokedrafts-vt-2.gif" width="100%" alt="VT Lecture"/>
-	  </a>
-	<br />
-	  <p align="center">
-<a href="https://github.com/ec-coding/VT-Lecture" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-</a>
-	</p>
-    <p>A overview of the View Transition API and its capabilities. Used for a presentation at the Dallas Software Developers meetup.</p>
-</td>
-<td width="50%" valign="top">
 	<h3 align="center">CLU-Scape</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
@@ -91,6 +77,20 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 </a>
 	</p>
     <p>A full-stack CRUD app made with EJS, CSS, JavaScript, Node.js, and MongoDB.</p>
+</td>
+<td width="50%" valign="top">
+	<h3 align="center">View Transitions Lecture</h3>
+	<br />
+	  <a target="_blank" href="https://github.com/ec-coding/VT-Lecture">
+		<img src="https://github.com/ec-coding/VT-Lecture/blob/main/img/pokedrafts-vt-2.gif" width="100%" alt="VT Lecture"/>
+	  </a>
+	<br />
+	  <p align="center">
+<a href="https://github.com/ec-coding/VT-Lecture" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+</a>
+	</p>
+    <p>A overview of the View Transition API and its capabilities. Used for a presentation at the Dallas Software Developers meetup.</p>
 </td>
 </tr>
 <tr>

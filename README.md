@@ -76,7 +76,8 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
   <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
 </a>
 	</p>
-    <p>A full-stack CRUD app made with EJS, CSS, JavaScript, Node.js, and MongoDB.</p>
+    <p>A full-stack CRUD app that links with MongoDB to read and update quote entries made by the user. Inspired by TRON: Legacy. Built with 
+	EJS, CSS, JavaScript, Node.js.</p>
 </td>
 <td width="50%" valign="top">
 	<h3 align="center">View Transitions Lecture</h3>
@@ -90,7 +91,7 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
   <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
 </a>
 	</p>
-    <p>A overview of the View Transition API and its capabilities. Used for a presentation at the Dallas Software Developers meetup.</p>
+    <p>A overview of the View Transition API and its capabilities. Used for a presentation at the Dallas Software Developers meetup. Combines CSS and JavaScript functions to demonstrate element phasing techniques between page changes.</p>
 </td>
 </tr>
 <tr>

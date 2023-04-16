@@ -43,7 +43,7 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
   <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
 </a>
 	</p>
-    <p>PokéDrafts is a full-stack web app that allows you to build your very own deck from various sets of the Pokémon Trading Card Game. It features Google authentication and is structured using MVC framework. Built with MERN stack.</p>
+    <p>PokéDrafts is a full-stack web app that allows you to build your very own deck from various sets of the Pokémon Trading Card Game. It features Google authentication and is structured using MVC framework. Built with MERN stack and MongoDB.</p>
   </td>
 <td width="50%" valign="top">
 <h3 align="center">Celestial Snapshots</h3>

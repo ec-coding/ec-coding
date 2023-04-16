@@ -65,6 +65,20 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 </tr>
 <tr>
 <td width="50%" valign="top">
+	<h3 align="center">View Transitions Lecture</h3>
+	<br />
+	  <a target="_blank" href="https://github.com/ec-coding/VT-Lecture">
+		<img src="https://github.com/ec-coding/VT-Lecture/blob/main/img/pokedrafts-vt-2.gif" width="100%" alt="VT Lecture"/>
+	  </a>
+	<br />
+	  <p align="center">
+<a href="https://github.com/ec-coding/VT-Lecture" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+</a>
+	</p>
+    <p>A overview of the View Transition API and its capabilities. Used for a presentation at the Dallas Software Developers meetup.</p>
+</td>
+<td width="50%" valign="top">
       <h3 align="center">Portfolio Website</h3>
       <br />
         <a target="_blank" href="https://edwinchoi.netlify.app/">
@@ -81,7 +95,10 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
       </p>
         <p>My portfolio site, which displays my latest projects and information on my freelancing services.</p>
     </td> 
-	<td width="50%" valign="top">
+ 
+</tr>
+<tr>
+<td width="50%" valign="top">
       <h3 align="center">Tic Tac Toe Module</h3>
       <br />
         <a target="_blank" href="https://ec-tictactoe.netlify.app/">
@@ -97,23 +114,7 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
   </a>
       </p>
         <p>A 100Devs project which is meant to showcase the use of object-oriented programming (OOP) to create a fully interactive game module, complete with victory, loss, and tie conditions.</p>
-   </td> 
-</tr>
-<tr>
-<td width="50%" valign="top">
-	<h3 align="center">View Transitions Lecture</h3>
-	<br />
-	  <a target="_blank" href="https://github.com/ec-coding/VT-Lecture">
-		<img src="https://github.com/ec-coding/VT-Lecture/blob/main/img/pokedrafts-vt-2.gif" width="100%" alt="VT Lecture"/>
-	  </a>
-	<br />
-	  <p align="center">
-<a href="https://github.com/ec-coding/VT-Lecture" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-</a>
-	</p>
-    <p>A overview of the View Transition API and its capabilities. Used for a presentation at the Dallas Software Developers meetup.</p>
-  </td>
+</td>	
 <td width="50%" valign="top">
 	<h3 align="center">CLU-Scape</h3>
 	<br />

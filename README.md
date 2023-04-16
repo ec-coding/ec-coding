@@ -117,6 +117,21 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 	</p>
     <p>A full-stack blogging app made with Node.js, Handlebars(hbs) and CSS. Mobile-friendly.</p>
   </td>
+<td width="50%" valign="top">
+	<h3 align="center">CLU-Scape</h3>
+	<br />
+	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
+		<img src="https://github.com/ec-coding/CLU-Scape/blob/main/img/clu-scape%20preview.gif" width="100%" alt="CLU-Scape"/>
+	  </a>
+	<br />
+	  <p align="center">
+<a href="https://github.com/ec-coding/CLU-Scape" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+</a>
+	</p>
+    <p>A full-stack CRUD app made with EJS, CSS, JavaScript, Node.js, and MongoDB.</p>
+  </td>
+</tr>
 </tr>	
 </table>
 

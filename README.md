@@ -101,21 +101,18 @@ Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and
 </tr>
 <tr>
 <td width="50%" valign="top">
-	<h3 align="center">StoryBooks</h3>
+	<h3 align="center">View Transitions Lecture</h3>
 	<br />
-	  <a target="_blank" href="http://ec-storybooks-app.herokuapp.com/">
-		<img src="https://github.com/ec-coding/Personal-Site/blob/main/images/StoryBooks%20Banner.png" width="100%" alt="MVC Lecture"/>
+	  <a target="_blank" href="https://github.com/ec-coding/VT-Lecture">
+		<img src="https://github.com/ec-coding/VT-Lecture/blob/main/img/pokedrafts-vt-2.gif" width="100%" alt="VT Lecture"/>
 	  </a>
 	<br />
 	  <p align="center">
-<a href="https://github.com/ec-coding/StoryBooks-App" target="_blank">
+<a href="https://github.com/ec-coding/VT-Lecture" target="_blank">
   <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
 </a>
-<a href="http://ec-storybooks-app.herokuapp.com/" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-</a>
 	</p>
-    <p>A full-stack blogging app made with Node.js, Handlebars(hbs) and CSS. Mobile-friendly.</p>
+    <p>A overview of the View Transition API and its capabilities. Used for a presentation at the Dallas Software Developers meetup.</p>
   </td>
 <td width="50%" valign="top">
 	<h3 align="center">CLU-Scape</h3>

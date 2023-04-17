@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<h4>Hi, I'm Edwin! I am a Full-Stack Web Developer with a background in teaching and logistics. I synergize my professional skillsets to build amazing applications that not only challenge me as an engineer, but which also offer great utility for my clients. Please feel free to reach out if you have any questions!</h4>
+<h4>Hi, I'm Edwin and I'm a software engineer with a background in teaching. I specialize in using MERN stack to develop new and innovative tech solutions for my clients. My enduring aim is to stay well-adapted to new technologies and research their impacts on modern web development. Please feel free to reach out if you have any questions!</h4>
 
 <table bordercolor="#66b2b2"> 
 <h2 align="center">My Projects</h2>

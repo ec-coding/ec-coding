@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<h3>Hi, I'm Edwin and I'm a software engineer with an extensive background in teaching. I specialize in using MERN stack to develop innovative and impactful tech solutions for my clients. My enduring aim is to stay well-adapted to new technologies and research their impacts on modern web development. Please feel free to reach out if you have any questions!</h3>
+<h3>Hi, I'm Edwin and I am a software engineer with an extensive background in teaching. I specialize in using MERN stack to develop innovative and impactful tech solutions for my clients. My enduring aim is to stay well-adapted to new technologies and research their impacts on modern web development. Please feel free to reach out if you have any questions!</h3>
 
 <table bordercolor="#66b2b2"> 
 <h2 align="center">My Projects</h2>

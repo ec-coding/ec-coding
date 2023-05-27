@@ -30,6 +30,20 @@
 <table bordercolor="#66b2b2">
 <tr>
 <td width="50%" valign="top">
+	<h3 align="center">AugLink (WIP)</h3>
+	<br />
+	  <a target="_blank" href="https://github.com/ec-coding/AugLink">
+		<img src="https://i.imgur.com/mj5Zc40.mp4" width="95%" alt="AugLink"/>
+	  </a>
+	<br />
+	  <p align="center">
+<a href="https://github.com/ec-coding/AugLink" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+</a>
+	</p>
+    <p>AugLink is a full-stack social networking application which is being built using React and Node.js, along with MySQL for its database. Additional tools and practices used include React hooks, Context API, React-query, JSON Web Tokens, and cookies.</p>
+  </td>	
+<td width="50%" valign="top">
 	<h3 align="center">PokéDrafts</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/PokeDrafts-2.0">
@@ -46,6 +60,8 @@
 	</p>
     <p>PokéDrafts is a full-stack web app that allows you to build your very own deck from various sets of the Pokémon Trading Card Game. It features Google authentication and is structured using MVC framework. Built with MERN stack and MongoDB.</p>
   </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3 align="center">Celestial Snapshots</h3>
 <br />
@@ -63,26 +79,6 @@
 </p>
 <p>Celestial Snapshots is an app that allows users to fetch various Astronomy Pictures of the Day using fetch calls linked to NASA's very own API. Built to test repeatable CSS animations in tandem with API fetches. Built with HTML, CSS, and JavaScript.</p>
 </td> 
-</tr>
-<tr>
-<td width="50%" valign="top">
-	<h3 align="center">CLU-Scape</h3>
-	<br />
-	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
-		<img src="https://github.com/ec-coding/CLU-Scape/blob/main/img/clu-scape%20preview.gif" width="100%" alt="CLU-Scape"/>
-	  </a>
-	<br />
-	  <p align="center">
-<a href="https://github.com/ec-coding/CLU-Scape" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-</a>
-<a href="https://clu-scape.cyclic.app/" target="_blank">
-<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-</a>
-	</p>
-    <p>A full-stack CRUD app that links with MongoDB to read and update quote entries made by the user. Inspired by TRON: Legacy. Built with 
-	EJS, CSS, JavaScript, Node.js.</p>
-</td>
 <td width="50%" valign="top">
 	<h3 align="center">View Transitions Lecture</h3>
 	<br />
@@ -136,6 +132,26 @@
       </p>
         <p>A 100Devs project which is meant to showcase the use of object-oriented programming (OOP) to create a fully interactive game module, complete with victory, loss, and tie conditions.</p>
 </td>	
+</tr>
+<tr>
+<td width="50%" valign="top">
+	<h3 align="center">CLU-Scape</h3>
+	<br />
+	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
+		<img src="https://github.com/ec-coding/CLU-Scape/blob/main/img/clu-scape%20preview.gif" width="100%" alt="CLU-Scape"/>
+	  </a>
+	<br />
+	  <p align="center">
+<a href="https://github.com/ec-coding/CLU-Scape" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+</a>
+<a href="https://clu-scape.cyclic.app/" target="_blank">
+<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+</a>
+	</p>
+    <p>A full-stack CRUD app that links with MongoDB to read and update quote entries made by the user. Inspired by TRON: Legacy. Built with 
+	EJS, CSS, JavaScript, Node.js.</p>
+</td>
 </tr>
 </tr>	
 </table>

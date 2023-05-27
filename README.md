@@ -99,23 +99,6 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-      <h3 align="center">Portfolio Website</h3>
-      <br />
-        <a target="_blank" href="https://edwinchoi.netlify.app/">
-          <img src="https://github.com/ec-coding/Personal-Site/blob/main/images/Portfolio%20Preview.png" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/ec-coding/Personal-Site" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://edwinchoi.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p>My portfolio site, which displays my latest projects and information on my freelancing services.</p>
-</td>
-<td width="50%" valign="top">
 	<h3 align="center">CLU-Scape</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
@@ -132,7 +115,24 @@
 	</p>
     <p>A full-stack CRUD app that links with MongoDB to read and update quote entries made by the user. Inspired by TRON: Legacy. Built with 
 	EJS, CSS, JavaScript, Node.js.</p>
-</td>	
+</td>
+<td width="50%" valign="top">
+      <h3 align="center">Tic Tac Toe Module</h3>
+      <br />
+        <a target="_blank" href="https://ec-tictactoe.netlify.app/">
+          <img src="https://github.com/ec-coding/Tic-Tac-Toe/blob/main/Tic-Tac-Toe%20Banner.png" width="100%" alt="Tic-Tac-Toe"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/ec-coding/Tic-Tac-Toe" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://ec-tictactoe.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p>A 100Devs project which is meant to showcase the use of object-oriented programming (OOP) to create a fully interactive game module, complete with victory, loss, and tie conditions.</p>
+</td>		
 </tr>
 </tr>	
 </table>

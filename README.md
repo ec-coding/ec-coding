@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
 </a>
 	</p>
-    <p>AugLink is a full-stack social networking application which is being built using React and Node.js, along with MySQL for its database. Additional tools and practices used include React hooks, Context API, React-query, JSON Web Tokens, and cookies.</p>
+    <p>AugLink is a full-stack social networking application which is being built using React and Node.js, along with MySQL for its database. Additional tools and practices used include React hooks, Context API, React-query, JWT, and cookies.</p>
   </td>
 <td width="50%" valign="top">
 	<h3 align="center">PokéDrafts</h3>

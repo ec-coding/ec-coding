@@ -33,7 +33,7 @@
 	<h3 align="center">AugLink (WIP)</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/AugLink">
-		<img src="https://i.imgur.com/mj5Zc40.mp4" width="95%" alt="AugLink"/>
+		<img src="https://github.com/ec-coding/AugLink/blob/main/client/public/images/auglink-login.gif" width="95%" alt="AugLink"/>
 	  </a>
 	<br />
 	  <p align="center">

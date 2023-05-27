@@ -30,20 +30,6 @@
 <table bordercolor="#66b2b2">
 <tr>
 <td width="50%" valign="top">
-	<h3 align="center">AugLink (WIP)</h3>
-	<br />
-	  <a target="_blank" href="https://github.com/ec-coding/AugLink">
-		<img src="https://github.com/ec-coding/AugLink/blob/main/client/public/images/auglink-login.gif" width="95%" alt="AugLink"/>
-	  </a>
-	<br />
-	  <p align="center">
-<a href="https://github.com/ec-coding/AugLink" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-</a>
-	</p>
-    <p>AugLink is a full-stack social networking application which is being built using React and Node.js, along with MySQL for its database. Additional tools and practices used include React hooks, Context API, React-query, JSON Web Tokens, and cookies.</p>
-  </td>	
-<td width="50%" valign="top">
 	<h3 align="center">PokéDrafts</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/PokeDrafts-2.0">
@@ -60,6 +46,20 @@
 	</p>
     <p>PokéDrafts is a full-stack web app that allows you to build your very own deck from various sets of the Pokémon Trading Card Game. It features Google authentication and is structured using MVC framework. Built with MERN stack and MongoDB.</p>
   </td>
+<td width="50%" valign="top">
+	<h3 align="center">AugLink (WIP)</h3>
+	<br />
+	  <a target="_blank" href="https://github.com/ec-coding/AugLink">
+		<img src="https://github.com/ec-coding/AugLink/blob/main/client/public/images/auglink-login.gif" width="95%" alt="AugLink"/>
+	  </a>
+	<br />
+	  <p align="center">
+<a href="https://github.com/ec-coding/AugLink" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+</a>
+	</p>
+    <p>AugLink is a full-stack social networking application which is being built using React and Node.js, along with MySQL for its database. Additional tools and practices used include React hooks, Context API, React-query, JSON Web Tokens, and cookies.</p>
+  </td>	
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -116,25 +116,6 @@
         <p>My portfolio site, which displays my latest projects and information on my freelancing services.</p>
 </td>
 <td width="50%" valign="top">
-      <h3 align="center">Tic Tac Toe Module</h3>
-      <br />
-        <a target="_blank" href="https://ec-tictactoe.netlify.app/">
-          <img src="https://github.com/ec-coding/Tic-Tac-Toe/blob/main/Tic-Tac-Toe%20Banner.png" width="100%" alt="Tic-Tac-Toe"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/ec-coding/Tic-Tac-Toe" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://ec-tictactoe.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p>A 100Devs project which is meant to showcase the use of object-oriented programming (OOP) to create a fully interactive game module, complete with victory, loss, and tie conditions.</p>
-</td>	
-</tr>
-<tr>
-<td width="50%" valign="top">
 	<h3 align="center">CLU-Scape</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
@@ -151,7 +132,7 @@
 	</p>
     <p>A full-stack CRUD app that links with MongoDB to read and update quote entries made by the user. Inspired by TRON: Legacy. Built with 
 	EJS, CSS, JavaScript, Node.js.</p>
-</td>
+</td>	
 </tr>
 </tr>	
 </table>

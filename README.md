@@ -33,7 +33,7 @@
 	<h3 align="center">AugLink (WIP)</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/AugLink">
-		<img src="https://github.com/ec-coding/AugLink/blob/main/client/public/images/auglink-login.gif" width="95%" alt="AugLink"/>
+		<img src="https://github.com/ec-coding/AugLink/blob/main/client/public/images/auglink-login.gif" width="" alt="AugLink"/>
 	  </a>
 	<br />
 	  <p align="center">
@@ -47,7 +47,7 @@
 	<h3 align="center">PokéDrafts</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/PokeDrafts-2.0">
-		<img src="https://github.com/ec-coding/PokeDrafts-2.0/blob/main/images/pokedrafts-preview1.gif" width="95%" alt="PokéDrafts"/>
+		<img src="https://github.com/ec-coding/PokeDrafts-2.0/blob/main/images/pokedrafts-preview1.gif" width="" alt="PokéDrafts"/>
 	  </a>
 	<br />
 	  <p align="center">

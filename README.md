@@ -116,7 +116,7 @@
     <p>A full-stack CRUD app that links with MongoDB to read and update quote entries made by the user. Inspired by TRON: Legacy. Built with 
 	EJS, CSS, JavaScript, Node.js.</p>
 </td>
-<td width="50%" valign="top">
+<!-- <td width="50%" valign="top">
       <h3 align="center">Tic Tac Toe Module</h3>
       <br />
         <a target="_blank" href="https://ec-tictactoe.netlify.app/">
@@ -132,7 +132,7 @@
   </a>
       </p>
         <p>A 100Devs project which is meant to showcase the use of object-oriented programming (OOP) to create a fully interactive game module, complete with victory, loss, and tie conditions.</p>
-</td>		
+</td>		 -->
 </tr>
 </tr>	
 </table>

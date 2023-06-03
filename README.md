@@ -98,8 +98,8 @@
 	EJS, CSS, JavaScript, Node.js.</p>
 </td>	
 </tr>
-<tr>
-<!-- <td width="50%" valign="top">
+<!-- <tr>
+<td width="50%" valign="top">
 	<h3 align="center">View Transitions Lecture</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/VT-Lecture">
@@ -115,8 +115,8 @@
   	</a>
 	</p>
     <p>A overview of the View Transition API and its capabilities. Used for a presentation at the Dallas Software Developers meetup. Combines CSS and JavaScript functions to demonstrate element phasing techniques between page changes.</p>
-</td> -->
-<!-- <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
       <h3 align="center">Tic Tac Toe Module</h3>
       <br />
         <a target="_blank" href="https://ec-tictactoe.netlify.app/">
@@ -132,8 +132,8 @@
   </a>
       </p>
         <p>A 100Devs project which is meant to showcase the use of object-oriented programming (OOP) to create a fully interactive game module, complete with victory, loss, and tie conditions.</p>
-</td>		 -->
-</tr>
+</td>		
+</tr> -->
 </tr>	
 </table>
 

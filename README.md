@@ -80,25 +80,6 @@
 <p>Celestial Snapshots is an app that allows users to fetch various Astronomy Pictures of the Day using fetch calls linked to NASA's very own API. Built to test repeatable CSS animations in tandem with API fetches. Built with HTML, CSS, and JavaScript.</p>
 </td> 
 <td width="50%" valign="top">
-	<h3 align="center">View Transitions Lecture</h3>
-	<br />
-	  <a target="_blank" href="https://github.com/ec-coding/VT-Lecture">
-		<img src="https://github.com/ec-coding/VT-Lecture/blob/main/img/pokedrafts-vt-2.gif" width="100%" alt="VT Lecture"/>
-	  </a>
-	<br />
-	  <p align="center">
-<a href="https://github.com/ec-coding/VT-Lecture" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-</a>
-	  <a href="https://vt-demo.cyclic.app/" target="_blank">
-    		<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  	</a>
-	</p>
-    <p>A overview of the View Transition API and its capabilities. Used for a presentation at the Dallas Software Developers meetup. Combines CSS and JavaScript functions to demonstrate element phasing techniques between page changes.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 	<h3 align="center">CLU-Scape</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
@@ -115,7 +96,26 @@
 	</p>
     <p>A full-stack CRUD app that links with MongoDB to read and update quote entries made by the user. Inspired by TRON: Legacy. Built with 
 	EJS, CSS, JavaScript, Node.js.</p>
-</td>
+</td>	
+</tr>
+<tr>
+<!-- <td width="50%" valign="top">
+	<h3 align="center">View Transitions Lecture</h3>
+	<br />
+	  <a target="_blank" href="https://github.com/ec-coding/VT-Lecture">
+		<img src="https://github.com/ec-coding/VT-Lecture/blob/main/img/pokedrafts-vt-2.gif" width="100%" alt="VT Lecture"/>
+	  </a>
+	<br />
+	  <p align="center">
+<a href="https://github.com/ec-coding/VT-Lecture" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+</a>
+	  <a href="https://vt-demo.cyclic.app/" target="_blank">
+    		<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  	</a>
+	</p>
+    <p>A overview of the View Transition API and its capabilities. Used for a presentation at the Dallas Software Developers meetup. Combines CSS and JavaScript functions to demonstrate element phasing techniques between page changes.</p>
+</td> -->
 <!-- <td width="50%" valign="top">
       <h3 align="center">Tic Tac Toe Module</h3>
       <br />

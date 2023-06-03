@@ -66,7 +66,7 @@
 <h3 align="center">Celestial Snapshots</h3>
 <br />
 <a target="_blank" href="https://github.com/ec-coding/Celestial-Snapshots">
-<img src="https://github.com/ec-coding/Celestial-Snapshots/blob/main/img/celestial-snapshots2.gif" width="97%" alt="Celestial Snapshots"/>
+<img src="https://github.com/ec-coding/Celestial-Snapshots/blob/main/img/celestial-snapshots2.gif" width="96%" alt="Celestial Snapshots"/>
 </a>
 <br />
 <p align="center">

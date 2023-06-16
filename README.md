@@ -83,7 +83,6 @@
 </td> 
 <td width="50%" valign="top">
 	<h3 align="center">CLU-Scape</h3>
-	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
 		<img src="https://github.com/ec-coding/CLU-Scape/blob/main/img/clu-scape%20preview.gif" width="100%" alt="CLU-Scape"/>
 	  </a>
@@ -100,27 +99,9 @@
 	EJS, CSS, JavaScript, Node.js.</p>
 </td>	
 </tr>
-<!-- <tr>
-<td width="50%" valign="top">
-      <h3 align="center">Tic Tac Toe Module</h3>
-      <br />
-        <a target="_blank" href="https://ec-tictactoe.netlify.app/">
-          <img src="https://github.com/ec-coding/Tic-Tac-Toe/blob/main/Tic-Tac-Toe%20Banner.png" width="100%" alt="Tic-Tac-Toe"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/ec-coding/Tic-Tac-Toe" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://ec-tictactoe.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p>A 100Devs project which is meant to showcase the use of object-oriented programming (OOP) to create a fully interactive game module, complete with victory, loss, and tie conditions.</p>
-</td>		
-</tr> -->
 </tr>	
 </table>
+
 <br />
 <table bordercolor="#66b2b2"> 
 <h1 align="center">My Presentations</h1>

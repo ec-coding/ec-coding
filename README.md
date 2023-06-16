@@ -131,7 +131,7 @@
 	<h3 align="center">CI/CD Pipelines</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
-		<img src="https://github.com/ec-coding/CI-CD-Lecture/blob/main/CI-CD%20Banner.png" width="90%" alt="CLU-Scape"/>
+		<img src="https://github.com/ec-coding/CI-CD-Lecture/blob/main/CI-CD%20Banner.png" width="90%" align="center" alt="CLU-Scape"/>
 	  </a>
 	<br />
 	  <p align="center">
@@ -139,7 +139,7 @@
 <img src="https://img.shields.io/static/v1?label=|&message=SLIDES&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
 </a>
 	</p>
-    <p>Discover the transformative power of CI/CD pipelines and how they revolutionize software development by enabling faster, more reliable, and automated delivery of applications.</p>
+    <p>An overview on the transformative power of CI/CD pipelines and how they revolutionize software development by enabling faster, more reliable, and automated delivery of applications.</p>
 </td>	
 <td width="50%" valign="top">
 	<h3 align="center">View Transitions</h3>

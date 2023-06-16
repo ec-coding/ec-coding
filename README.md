@@ -139,6 +139,44 @@
 </tr>	
 </table>
 
+<table bordercolor="#66b2b2"> 
+<h1 align="center">My Presentations</h1>
+</table>
+<table bordercolor="#66b2b2">
+<tr>
+<td width="50%" valign="top">
+	<h3 align="center">CI/CD Pipelines</h3>
+	<br />
+	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
+		<img src="https://github.com/ec-coding/CI-CD-Lecture/blob/main/CI-CD%20Banner.png" width="100%" alt="CLU-Scape"/>
+	  </a>
+	<br />
+	  <p align="center">
+<a href="https://github.com/ec-coding/CI-CD-Lecture/blob/main/CI_CD%20Pipeline%20Presentation.pdf" target="_blank">
+<img src="https://img.shields.io/static/v1?label=|&message=SLIDES&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+</a>
+	</p>
+    <p>Discover the transformative power of CI/CD pipelines and how they revolutionize software development by enabling faster, more reliable, and automated delivery of applications.</p>
+</td>	
+<td width="50%" valign="top">
+	<h3 align="center">View Transitions</h3>
+	<br />
+	  <a target="_blank" href="https://github.com/ec-coding/VT-Lecture">
+		<img src="https://github.com/ec-coding/VT-Lecture/blob/main/img/pokedrafts-vt-2.gif" width="100%" alt="VT Lecture"/>
+	  </a>
+	<br />
+	  <p align="center">
+<a href="https://github.com/ec-coding/VT-Lecture" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+</a>
+	  <a href="https://github.com/ec-coding/VT-Lecture/blob/main/Shared%20Element%20Transitions.pdf" target="_blank">
+    		<img src="https://img.shields.io/static/v1?label=|&message=SLIDES&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  	</a>
+	</p>
+    <p>A overview of the View Transition API and its capabilities. Used for a presentation at the Dallas Software Developers meetup. Combines CSS and JavaScript functions to demonstrate element phasing techniques between page changes.</p>
+</td>
+</tr>	
+</table>
 
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">

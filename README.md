@@ -160,7 +160,7 @@
 </td>
 </tr>	
 </table>
-
+<br />
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>

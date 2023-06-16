@@ -130,8 +130,8 @@
 <td width="50%" valign="top">
 	<h3 align="center">CI/CD Pipelines</h3>
 	<br />
-	  <a align="center" target="_blank" href="https://github.com/ec-coding/CLU-Scape">
-		<img align="center" src="https://github.com/ec-coding/CI-CD-Lecture/blob/main/CI-CD%20Banner.png" width="90%" alt="CLU-Scape"/>
+	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
+		<img src="https://github.com/ec-coding/CI-CD-Lecture/blob/main/CI-CD%20Banner.png" width="" alt="CLU-Scape"/>
 	  </a>
 	<br />
 	  <p align="center">
@@ -156,7 +156,7 @@
     		<img src="https://img.shields.io/static/v1?label=|&message=SLIDES&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   	</a>
 	</p>
-    <p>A overview of the View Transition API and its capabilities. Combines CSS and JavaScript functions to demonstrate element phasing techniques between page changes.</p>
+    <p>A overview of the View Transition API and the ways it can enhance standard page navigation. Combines CSS and JavaScript functions to demonstrate element phasing techniques between page changes.</p>
 </td>
 </tr>	
 </table>

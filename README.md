@@ -23,7 +23,7 @@
 
 <h3 align="center">Hi, I'm Edwin and I am a software engineer with an extensive background in teaching. I specialize in using MERN stack to develop innovative and impactful tech solutions for my clients.</h3>
 <h3 align="center">My enduring aim is to stay well-adapted to new technologies and research their impacts on modern web development. Please feel free to reach out if you have any questions!</h3>
-
+<br />
 <table bordercolor="#66b2b2"> 
 <h1 align="center">My Projects</h1>
 </table>
@@ -64,7 +64,7 @@
 <tr>
 <td width="50%" valign="top">
 <h3 align="center">Celestial Snapshots</h3>
-<br />
+
 <a target="_blank" href="https://github.com/ec-coding/Celestial-Snapshots">
 <img src="https://github.com/ec-coding/Celestial-Snapshots/blob/main/img/celestial-snapshots2.gif" width="96.5%" alt="Celestial Snapshots"/>
 </a>

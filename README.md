@@ -130,7 +130,7 @@
 <td width="50%" valign="top">
 	<h3 align="center">CI/CD Pipelines</h3>
 	<br />
-	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
+	  <a target="_blank" href="https://github.com/ec-coding/CI-CD-Lecture">
 		<img src="https://github.com/ec-coding/CI-CD-Lecture/blob/main/CI-CD%20Banner.png" width="" alt="CLU-Scape"/>
 	  </a>
 	<br />

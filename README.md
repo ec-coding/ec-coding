@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=cdf998&style=plastic&logo=node.js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
     <br>
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=ANSIBLE&color=98bf53&style=plastic&logo=ansible"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=POSTGRESQL&color=98bf53&style=plastic&logo=postgresql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>

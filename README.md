@@ -21,7 +21,7 @@
   </a> -->
 </p>
 
-<h3 align="center">Hi, I'm Edwin and I am a software engineer with a background in teaching and building full-stack applications. I specialize in using MERN stack to develop innovative and impactful tech solutions for my clients.</h3>
+<h3 align="center">Hi, I'm Edwin and I am an experienced software engineer with a background in teaching and building full-stack applications. I specialize in using MERN stack to develop innovative and impactful tech solutions for my clients.</h3>
 <h3 align="center">My enduring aim is to stay well-adapted to new technologies and research their impacts on modern web development. Please feel free to reach out if you have any questions!</h3>
 <br/>
 <h2 align="center">Languages and Technologies</h2>

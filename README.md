@@ -48,7 +48,7 @@
 </table>
 <table bordercolor="#66b2b2">
 <tr>
-<!-- <td width="50%" valign="top">
+<td width="50%" valign="top">
 	<h3 align="center">AugLink (WIP)</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/AugLink">
@@ -61,7 +61,7 @@
 </a>
 	</p>
     <p>AugLink is a full-stack social networking application which is being built using React and Node.js, along with MySQL for its database. Layout and design inspired by Deus Ex, Cyberpunk 2077, and Blade Runner.</p>
-  </td> -->
+  </td>
 <td width="50%" valign="top">
 	<h3 align="center">PokéDrafts</h3>
 	<br />

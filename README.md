@@ -21,7 +21,7 @@
   </a> -->
 </p>
 
-<h3 align="center">Hi, I'm Edwin and I am an experienced software engineer with a background in both full-stack development and DevSecOps. My enduring aim is to stay well-adapted to new technologies and research their impacts on modern web development and software automation. Please feel free to reach out if you have any questions!</h3>
+<h3>Hi, I'm Edwin and I am an experienced software engineer with a background in both full-stack development and DevSecOps. My enduring aim is to stay well-adapted to new technologies and research their impacts on modern web development and software automation. Please feel free to reach out if you have any questions!</h3>
 <br/>
 <h2 align="center">Languages and Technologies</h2>
 <p align="center">

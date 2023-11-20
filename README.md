@@ -21,7 +21,7 @@
   </a> -->
 </p>
 
-<h3 align="center">Hi, I'm Edwin and I am an experienced software engineer with a background in both full-stack web development and DevSecOps.</h3>
+<h3 align="center">Hi, I'm Edwin and I am an experienced software engineer with a background in both full-stack development and DevSecOps.</h3>
 <h3 align="center">Please feel free to reach out if you have any questions!</h3>
 <br/>
 <h2 align="center">Languages and Technologies</h2>

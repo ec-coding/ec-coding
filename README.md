@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Om7lsYR.png" width="100%">
+<img src="https://i.imgur.com/TVTXZ1c.png" width="100%">
 
 <p align="center">
 <!--   <a href="https://edwinchoi.netlify.app/" target="_blank">

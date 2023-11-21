@@ -38,9 +38,10 @@
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=POSTGRESQL&color=98bf53&style=plastic&logo=postgresql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GITLAB&color=98bf53&style=plastic&logo=gitlab"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PHP&color=4a935c&style=plastic&logo=php"/>
     <img src="https://img.shields.io/static/v1?label=|&message=DOCKER&color=98bf53&style=plastic&logo=docker"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=KUBERNETES&color=98bf53&style=plastic&logo=kubernetes"/>
+
 </p>
 <br/>
 <table bordercolor="#66b2b2"> 

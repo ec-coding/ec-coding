@@ -34,14 +34,13 @@
     <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=cdf998&style=plastic&logo=node.js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
     <br>
-    <img src="https://img.shields.io/static/v1?label=|&message=ANSIBLE&color=98bf53&style=plastic&logo=ansible"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=POSTGRESQL&color=98bf53&style=plastic&logo=postgresql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GITLAB&color=98bf53&style=plastic&logo=gitlab"/>
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=4a935c&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=DOCKER&color=98bf53&style=plastic&logo=docker"/>
-
+    <img src="https://img.shields.io/static/v1?label=|&message=ANSIBLE&color=98bf53&style=plastic&logo=ansible"/>
 </p>
 <br/>
 <table bordercolor="#66b2b2"> 

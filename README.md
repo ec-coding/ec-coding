@@ -47,7 +47,7 @@
 <h1 align="center">My Projects</h1>
 </table>
 <table bordercolor="#66b2b2">
-<td width="100%" valign="top">
+<td width="100%">
 	<h3 align="center">PokéDrafts</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/PokeDrafts-2.0">
@@ -64,7 +64,7 @@
 	</p>
     <p>PokéDrafts is a full-stack web app that allows you to build your very own deck from various sets of the Pokémon Trading Card Game. It features Google authentication and is structured using MVC framework. Built with MERN stack and MongoDB.</p>
   </td>
-<td width="100%" valign="top">
+<td width="100%">
 <h3 align="center">Celestial Snapshots</h3>
 
 <a target="_blank" href="https://github.com/ec-coding/Celestial-Snapshots">
@@ -83,7 +83,7 @@
 <!-- 	Built to test repeatable CSS animations in tandem with API fetches.  -->
 	Built with HTML, CSS, and JavaScript.</p>
 </td> 
-<td width="100%" valign="top">
+<td width="100%">
 	<h3 align="center">CLU-Scape</h3>
 	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
 		<img src="https://github.com/ec-coding/CLU-Scape/blob/main/img/clu-scape%20preview.gif" width="100%" alt="CLU-Scape"/>

@@ -48,7 +48,7 @@
 </table>
 <table bordercolor="#66b2b2">
 <tr>
-<td valign="top">
+<td width="100%" valign="top">
 	<h3 align="center">PokéDrafts</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/PokeDrafts-2.0">

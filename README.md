@@ -85,8 +85,9 @@
 <!-- 	Built to test repeatable CSS animations in tandem with API fetches.  -->
 	Built with HTML, CSS, and JavaScript.</p>
 </td>
-
-<td width="50%">
+</tr>
+<tr>
+<td width="100%">
 	<h3 align="center">CLU-Scape</h3>
 	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
 		<img src="https://github.com/ec-coding/CLU-Scape/blob/main/img/clu-scape%20preview.gif" width="100%" alt="CLU-Scape"/>
@@ -125,7 +126,7 @@
 	</p>
     <p>An overview on the transformative power of CI/CD pipelines and how they revolutionize software development by enabling faster, more reliable, and automated delivery of applications.</p>
 </td>	
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 	<h3 align="center">View Transitions</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/VT-Lecture">

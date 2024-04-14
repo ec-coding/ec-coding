@@ -47,6 +47,7 @@
 <h1 align="center">My Projects</h1>
 </table>
 <table bordercolor="#66b2b2">
+<tr>
 <td width="100%">
 	<h3 align="center">PokéDrafts</h3>
 	<br />
@@ -64,9 +65,10 @@
 	</p>
     <p>PokéDrafts is a full-stack web app that allows you to build your very own deck from various sets of the Pokémon Trading Card Game. It features Google authentication and is structured using MVC framework. Built with MERN stack and MongoDB.</p>
   </td>
+</tr>
+<tr>
 <td width="100%">
 <h3 align="center">Celestial Snapshots</h3>
-
 <a target="_blank" href="https://github.com/ec-coding/Celestial-Snapshots">
 <img src="https://github.com/ec-coding/Celestial-Snapshots/blob/main/img/celestial-snapshots2.gif" width="96.5%" alt="Celestial Snapshots"/>
 </a>
@@ -82,7 +84,9 @@
 <p>Celestial Snapshots is an app that allows users to fetch various Astronomy Pictures of the Day using fetch calls linked to NASA's very own API. 
 <!-- 	Built to test repeatable CSS animations in tandem with API fetches.  -->
 	Built with HTML, CSS, and JavaScript.</p>
-</td> 
+</td>
+</tr>
+<tr>
 <td width="100%">
 	<h3 align="center">CLU-Scape</h3>
 	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
@@ -99,9 +103,9 @@
 	</p>
     <p>A full-stack CRUD app that links with MongoDB to read and update quote entries made by the user. Inspired by TRON: Legacy. Built with 
 	EJS, CSS, JavaScript, Node.js.</p>
-</td>	
+</td>
+</tr>
 </table>
-
 <br />
 <table bordercolor="#66b2b2"> 
 <h1 align="center">My Presentations</h1>

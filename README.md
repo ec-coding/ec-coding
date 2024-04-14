@@ -85,8 +85,7 @@
 <!-- 	Built to test repeatable CSS animations in tandem with API fetches.  -->
 	Built with HTML, CSS, and JavaScript.</p>
 </td>
-</tr>
-<tr>
+
 <td width="50%">
 	<h3 align="center">CLU-Scape</h3>
 	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">

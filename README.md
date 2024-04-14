@@ -100,7 +100,6 @@
     <p>A full-stack CRUD app that links with MongoDB to read and update quote entries made by the user. Inspired by TRON: Legacy. Built with 
 	EJS, CSS, JavaScript, Node.js.</p>
 </td>	
-</tr>	
 </table>
 
 <br />

@@ -48,21 +48,7 @@
 </table>
 <table bordercolor="#66b2b2">
 <tr>
-<td width="50%" valign="top">
-	<h3 align="center">AugLink (WIP)</h3>
-	<br />
-	  <a target="_blank" href="https://github.com/ec-coding/AugLink">
-		<img src="https://github.com/ec-coding/AugLink/blob/main/client/public/images/auglink-login.gif" width="" alt="AugLink"/>
-	  </a>
-	<br />
-	  <p align="center">
-<a href="https://github.com/ec-coding/AugLink" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-</a>
-	</p>
-    <p>AugLink is a full-stack social networking application which is being built using React and Node.js, along with MySQL for its database. Layout and design inspired by Deus Ex, Cyberpunk 2077, and Blade Runner.</p>
-  </td>
-<td width="50%" valign="top">
+<td valign="top">
 	<h3 align="center">PokéDrafts</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/PokeDrafts-2.0">

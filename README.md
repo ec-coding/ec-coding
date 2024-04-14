@@ -64,8 +64,7 @@
 	</p>
     <p>PokéDrafts is a full-stack web app that allows you to build your very own deck from various sets of the Pokémon Trading Card Game. It features Google authentication and is structured using MVC framework. Built with MERN stack and MongoDB.</p>
   </td>
-<tr>
-<td width="50%" valign="top">
+<td valign="top">
 <h3 align="center">Celestial Snapshots</h3>
 
 <a target="_blank" href="https://github.com/ec-coding/Celestial-Snapshots">
@@ -84,7 +83,7 @@
 <!-- 	Built to test repeatable CSS animations in tandem with API fetches.  -->
 	Built with HTML, CSS, and JavaScript.</p>
 </td> 
-<td width="50%" valign="top">
+<td valign="top">
 	<h3 align="center">CLU-Scape</h3>
 	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
 		<img src="https://github.com/ec-coding/CLU-Scape/blob/main/img/clu-scape%20preview.gif" width="100%" alt="CLU-Scape"/>
@@ -101,7 +100,6 @@
     <p>A full-stack CRUD app that links with MongoDB to read and update quote entries made by the user. Inspired by TRON: Legacy. Built with 
 	EJS, CSS, JavaScript, Node.js.</p>
 </td>	
-</tr>
 </tr>	
 </table>
 

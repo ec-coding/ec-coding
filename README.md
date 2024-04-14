@@ -47,7 +47,6 @@
 <h1 align="center">My Projects</h1>
 </table>
 <table bordercolor="#66b2b2">
-<tr>
 <td width="100%" valign="top">
 	<h3 align="center">PokéDrafts</h3>
 	<br />
@@ -65,7 +64,6 @@
 	</p>
     <p>PokéDrafts is a full-stack web app that allows you to build your very own deck from various sets of the Pokémon Trading Card Game. It features Google authentication and is structured using MVC framework. Built with MERN stack and MongoDB.</p>
   </td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 <h3 align="center">Celestial Snapshots</h3>

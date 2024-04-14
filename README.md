@@ -67,7 +67,7 @@
   </td>
 </tr>
 <tr>
-<td width="100%">
+<td width="50%">
 <h3 align="center">Celestial Snapshots</h3>
 <a target="_blank" href="https://github.com/ec-coding/Celestial-Snapshots">
 <img src="https://github.com/ec-coding/Celestial-Snapshots/blob/main/img/celestial-snapshots2.gif" width="96.5%" alt="Celestial Snapshots"/>
@@ -87,7 +87,7 @@
 </td>
 </tr>
 <tr>
-<td width="100%">
+<td width="50%">
 	<h3 align="center">CLU-Scape</h3>
 	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
 		<img src="https://github.com/ec-coding/CLU-Scape/blob/main/img/clu-scape%20preview.gif" width="100%" alt="CLU-Scape"/>

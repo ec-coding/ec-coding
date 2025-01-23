@@ -102,7 +102,7 @@
     <p>A full-stack CRUD app that links with MongoDB to read and update quote entries made by the user. Inspired by TRON: Legacy. Built with 
 	EJS, CSS, JavaScript, Node.js.</p>
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 	<h3 align="center">CI/CD Pipelines Presentation</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/CI-CD-Lecture">
@@ -116,7 +116,6 @@
 	</p>
     <p>An overview on the transformative power of CI/CD pipelines and how they revolutionize software development by enabling faster, more reliable, and automated delivery of applications.</p>
 </td>	
-<td width="100%" valign="top">
 </tr>
 </table>
 <br />

@@ -64,9 +64,7 @@
 </a>
 	</p>
     <p>PokéDrafts is a full-stack web app that allows you to build your very own deck from various sets of the Pokémon Trading Card Game. It features Google authentication and is structured using MVC framework. Built with MERN stack and MongoDB.</p>
-  </td>
-</tr>
-<tr>
+</td>
 <td width="50%">
 <h3 align="center">Celestial Snapshots</h3>
 <a target="_blank" href="https://github.com/ec-coding/Celestial-Snapshots">

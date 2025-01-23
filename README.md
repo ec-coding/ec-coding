@@ -48,7 +48,7 @@
 </table>
 <table bordercolor="#66b2b2">
 <tr>
-<td width="100%">
+<td width="50%">
 	<h3 align="center">PokéDrafts</h3>
 	<br />
 	  <a target="_blank" href="https://github.com/ec-coding/PokeDrafts-2.0">
@@ -87,7 +87,7 @@
 </td>
 </tr>
 <tr>
-<td width="100%">
+<td width="50%">
 	<h3 align="center">CLU-Scape</h3>
 	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
 		<img src="https://github.com/ec-coding/CLU-Scape/blob/main/img/clu-scape%20preview.gif" width="100%" alt="CLU-Scape"/>
@@ -104,9 +104,26 @@
     <p>A full-stack CRUD app that links with MongoDB to read and update quote entries made by the user. Inspired by TRON: Legacy. Built with 
 	EJS, CSS, JavaScript, Node.js.</p>
 </td>
+<td width="50%" valign="top">
+	<h3 align="center">CI/CD Pipelines Presentation</h3>
+	<br />
+	  <a target="_blank" href="https://github.com/ec-coding/CI-CD-Lecture">
+		<img src="https://github.com/ec-coding/CI-CD-Lecture/blob/main/CI-CD%20Banner.png" width="" alt="CLU-Scape"/>
+	  </a>
+	<br />
+	  <p align="center">
+<a href="https://github.com/ec-coding/CI-CD-Lecture/blob/main/CI_CD%20Pipeline%20Presentation.pdf" target="_blank">
+<img src="https://img.shields.io/static/v1?label=|&message=SLIDES&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+</a>
+	</p>
+    <p>An overview on the transformative power of CI/CD pipelines and how they revolutionize software development by enabling faster, more reliable, and automated delivery of applications.</p>
+</td>	
+<td width="100%" valign="top">
 </tr>
 </table>
 <br />
+
+<!--   
 <table bordercolor="#66b2b2"> 
 <h1 align="center">My Presentations</h1>
 </table>
@@ -146,6 +163,7 @@
 </tr>	
 </table>
 <br />
+-->
 
 <!--   <h2 align="center">Social Media</h2> -->
 

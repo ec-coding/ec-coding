@@ -86,21 +86,20 @@
 </tr>
 <tr>
 <td width="50%">
-	<h3 align="center">CLU-Scape</h3>
-	  <a target="_blank" href="https://github.com/ec-coding/CLU-Scape">
-		<img src="https://github.com/ec-coding/CLU-Scape/blob/main/img/clu-scape%20preview.gif" width="100%" alt="CLU-Scape"/>
+	<h3 align="center">Ethical Hacking Presentation</h3>
+	  <a target="_blank" href="https://github.com/ec-coding/Ethical-Hacking-Lecture">
+		<img src="https://i.imgur.com/QSbQKBe.png" width="100%" alt="Ethical-Hacking"/>
 	  </a>
 	<br />
 	  <p align="center">
-<a href="https://github.com/ec-coding/CLU-Scape" target="_blank">
+<a href="https://github.com/ec-coding/Ethical-Hacking-Lecture" target="_blank">
   <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
 </a>
-<a href="https://clu-scape.cyclic.app/" target="_blank">
+<a href="https://github.com/ec-coding/Ethical-Hacking-Lecture/blob/main/Ethical%20Hacking%20Lecture%20.pdf" target="_blank">
 <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
 </a>
 	</p>
-    <p>A full-stack CRUD app that links with MongoDB to read and update quote entries made by the user. Inspired by TRON: Legacy. Built with 
-	EJS, CSS, JavaScript, Node.js.</p>
+    <p>A presentation on the basic foundations of ethical hacking and penetration testing. Covers topics such as the differences between ethical and malicious hackers, the benefits of penetration testing, and the methods used in ethical hacking operations.</p>
 </td>
 <td width="50%">
 	<h3 align="center">CI/CD Pipelines Presentation</h3>

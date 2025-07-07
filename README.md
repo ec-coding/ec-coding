@@ -92,11 +92,8 @@
 	  </a>
 	<br />
 	  <p align="center">
-<a href="https://github.com/ec-coding/Ethical-Hacking-Lecture" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-</a>
 <a href="https://github.com/ec-coding/Ethical-Hacking-Lecture/blob/main/Ethical%20Hacking%20Lecture%20.pdf" target="_blank">
-<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+<img src="https://img.shields.io/static/v1?label=|&message=SLIDES&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
 </a>
 	</p>
     <p>A presentation on the basic foundations of ethical hacking and penetration testing. Covers topics such as the differences between ethical and malicious hackers, the benefits of penetration testing, and the methods used in ethical hacking operations.</p>
